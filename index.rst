@@ -7,6 +7,7 @@ Conreality Application Programming Interface (API) Manual
 
    intro
    protocols
+   examples
    faq
    history
    glossary

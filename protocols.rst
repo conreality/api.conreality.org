@@ -9,6 +9,7 @@ Native Protocols
    :maxdepth: 1
 
    protocols/cccp
+   protocols/erldp
 
 Standard Protocols
 ==================

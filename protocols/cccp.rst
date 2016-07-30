@@ -103,6 +103,15 @@ Rotates the FOV in the horizontal plane.
 
    pan {direction=left, degrees=90.0}
 
+pan to
+^^^^^^
+
+Rotates the FOV in the horizontal plane.
+
+.. code-block:: lua
+
+   pan_to {degrees=270.0}
+
 ping
 ^^^^
 
@@ -125,6 +134,15 @@ Rotates the FOV in the vertical plane.
 .. code-block:: lua
 
    tilt {direction=up, degrees=45.0}
+
+tilt_to
+^^^^^^^
+
+Rotates the FOV in the vertical plane.
+
+.. code-block:: lua
+
+   tilt_to {degrees=45.}
 
 toggle
 ^^^^^^

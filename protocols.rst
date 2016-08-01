@@ -22,4 +22,5 @@ Standard Protocols
    protocols/irc
    protocols/mqtt
    protocols/ros
+   protocols/ssdp
    protocols/stomp
